@@ -5,10 +5,13 @@ This is the start of a PHP wrapper for the http://tradedesk.com API. We are buil
 
 This is still under development, recommended to not use for public use.
 
-## Campaigns
 
-### Start
+## Start
+You must supply the API credentials you have from your account rep.
+
 	$tradedesk = new Campaigns($username, $password);
+
+## Campaigns
 
 ### List Camapigns
 	$tradedesk->listCampaigns($advertiserId);
