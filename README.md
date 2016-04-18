@@ -1,4 +1,5 @@
 # Tradedesk API
+[![Build Status](https://travis-ci.org/darkgoldblade01/The-Tradedesk-PHP-SDK.svg?branch=development)](https://travis-ci.org/darkgoldblade01/The-Tradedesk-PHP-SDK)
 
 ## Campaigns
 
