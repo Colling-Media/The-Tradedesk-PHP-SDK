@@ -1,7 +1,7 @@
 # Tradedesk API
 [![Build Status](https://travis-ci.org/darkgoldblade01/The-Tradedesk-PHP-SDK.svg?branch=development)](https://travis-ci.org/darkgoldblade01/The-Tradedesk-PHP-SDK)
 
-This is the start of a PHP wrapper for the [http://tradedesk.com|Tradedesk] API. We are building off v3 of their API.
+This is the start of a PHP wrapper for the http://tradedesk.com API. We are building off v3 of their API.
 
 This is still under development, recommended to not use for public use.
 
