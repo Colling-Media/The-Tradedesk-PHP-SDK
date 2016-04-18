@@ -13,7 +13,6 @@ class Campaigns extends Tradedesk {
 			"PageStartIndex" => 0,
 			"PageSize" => NULL
 		);
-		debug($postFields);
 		$ch = curl_init();
 		curl_setopt($ch, CURLOPT_URL,"https://api.thetradedesk.com/v3/campaign/query/advertiser");
 		curl_setopt($ch, CURLOPT_CUSTOMREQUEST, "POST");
