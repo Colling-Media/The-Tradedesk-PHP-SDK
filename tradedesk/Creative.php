@@ -77,7 +77,7 @@ class Creative extends Tradedesk {
 		@param $creativeID required
 			Get the Advertiser ID from the database or based on current user.
 	*/
-	function createCreative($options) {
+	function updateCreative($options) {
 		if(!isset($options)) throw new Exception("Must supply the options");
 		if(!is_array($options)) throw new Exception("Options must be an array");
 
