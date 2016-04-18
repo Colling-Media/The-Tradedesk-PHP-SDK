@@ -3,8 +3,8 @@
 require_once 'autoload.php';
 
 $username = getenv("username");
-$username = getenv("password");
-$username = getenv("partnerID");
+$password = getenv("password");
+$partnerID = getenv("partnerID");
 
 $tradedesk = new Advertisers($username, $password);
 print_r($tradedesk->listAdvertisers($partnerID));
