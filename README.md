@@ -1,8 +1,8 @@
 # Tradedesk API
 
 [![Stories in Ready](https://badge.waffle.io/Colling-Media/The-Tradedesk-PHP-SDK.png?label=ready&title=Ready)](https://waffle.io/Colling-Media/The-Tradedesk-PHP-SDK)
-
 [![Build Status](https://travis-ci.org/Colling-Media/The-Tradedesk-PHP-SDK.svg?branch=master)](https://travis-ci.org/Colling-Media/The-Tradedesk-PHP-SDK)
+[![GitHub version](https://badge.fury.io/gh/Colling-Media%2FThe-Tradedesk-PHP-SDK.svg)](https://badge.fury.io/gh/Colling-Media%2FThe-Tradedesk-PHP-SDK)
 
 This is the start of a PHP wrapper for the http://tradedesk.com API. We are building off v3 of their API.
 
