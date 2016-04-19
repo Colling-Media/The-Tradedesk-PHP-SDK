@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/Colling-Media/The-Tradedesk-PHP-SDK.png?label=ready&title=Ready)](https://waffle.io/Colling-Media/The-Tradedesk-PHP-SDK)
 # Tradedesk API
 [![Build Status](https://travis-ci.org/Colling-Media/The-Tradedesk-PHP-SDK.svg?branch=master)](https://travis-ci.org/Colling-Media/The-Tradedesk-PHP-SDK)
 
