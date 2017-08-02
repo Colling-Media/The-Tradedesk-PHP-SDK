@@ -41,4 +41,3 @@ class Tradedesk {
 		return true;
     }
 }
-?>
